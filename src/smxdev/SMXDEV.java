@@ -20,7 +20,8 @@ import javafx.scene.web.*;
 import org.apache.commons.io.FileUtils; 
 
 /**
- *
+ * Muwanguzi Silas
+ 
  * @author SeumX Plus
  */
 public class SMXDEV extends Application  {
